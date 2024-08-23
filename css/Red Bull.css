@@ -1,0 +1,6 @@
+body {
+    background-color: rgb(33, 101, 226);
+}
+h1, a, li, a:hover, a:visited{
+    color: rgb(206, 97, 115);
+}

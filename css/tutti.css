@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+body {
+    text-align: center;
+}
+h1 {
+    margin: 25px;
+    size: 3em;
+}
+p {margin: 20px;
+    size: 1.5em;
+}
+li {
+    margin: 15px;
+    size: 2em;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
