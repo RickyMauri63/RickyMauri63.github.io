@@ -9,6 +9,7 @@ img {
 }
 
 body {
+    width: 100%;
     text-align: center;
 }
 
@@ -25,6 +26,10 @@ p {
 li {
     margin: 15px;
     size: 2em;
+    list-style: none;
+}
+ol{
+    
 }
 
 a {
