@@ -28,16 +28,15 @@ li {
     size: 2em;
     list-style: none;
 }
-.sinistra{
+
+.sinistra {
     width: 10%;
     float: left;
 }
+
 .destra {
     width: 10%;
     float: right;
-}
-ol{
-    
 }
 
 a {
