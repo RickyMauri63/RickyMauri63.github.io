@@ -2,7 +2,9 @@ body {
     background-color: darkblue;
 }
 h1,
-p,
+p {
+    color: rgb(72, 72, 231);
+}
 a,
 li,
 a:hover,
