@@ -2,10 +2,12 @@ body {
     background: scroll;
 }
 h1,
-p,
+p{
+    color: black;
+}
 a,
 li,
 a:hover,
 a:visited {
-    color: rgb(206, 97, 115);
+    color: rgb(255, 0, 0);
 }
