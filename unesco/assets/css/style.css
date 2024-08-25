@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+    color: rgb(0, 158, 219);
+}
+
+footer {
+    width: 98%;
+    margin: 1%;
+    border: 2.5px;
+    border-style: solid;
+    border-color: rgb(0, 158, 219);
+}
+
+main {
+    width: 98%;
+    margin: 1%;
+    border: 2.5px;
+    border-style: solid;
+    border-color: rgb(0, 158, 219);
+}
+
+header figure {
+    overflow: hidden;
+}
+
+header {
+    width: 98%;
+    margin: 1%;
+    padding: 10px;
+    border: 2.5px;
+    border-style: solid;
+    border-color: rgb(0, 158, 219);
+}
+
+header img {
+    float: left;
+    width: 50%;
+}
+
+ul {
+    list-style: none;
+    font-size: small;
+}
+
+header figcaption {
+    border: 2.5px;
+    border-style: solid;
+    border-color: rgb(0, 158, 219);
+    float: left;
+    width: 48%;
+    margin: 0 1%;
+}
+
+a:link,
+a:visited {
+    color: rgb(0, 158, 219);
+}
+li{
+    margin: 1%;
+    overflow: hidden;
+}
+li p {
+    font-size: large;
+    text-align: left;
+}
+.destra{
+    float: right;
+    width: 24%;
+    margin: 1%;
+}
+.left {
+    float: left;
+    width: 24%;
+    margin: 1%;
+}
+section img {
+    width: 20%;
+    float: left;
+    margin-right: 1%;
+}
+section {
+    overflow: hidden;
+    text-align: left;
+    margin: 1.9%;
+}
+hr {
+    margin: auto;
+    width: 90%;
+}
+h1 {
+    margin: 1%;
+}
+a:hover{
+    color: white;
+    background-color: rgb(0, 158, 219);
+}
