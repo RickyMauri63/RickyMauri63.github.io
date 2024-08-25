@@ -2,6 +2,11 @@ img {
     width: 50%;
     float: left;
 }
+section{
+    margin: auto 0;
+    width: 100%;
+    overflow: hidden;
+}
 p{
     margin: 0;
     text-align: center;
@@ -13,7 +18,6 @@ figcaption .destra, figcaption .sinistra {
     width: 35%;
 }
 figcaption{
-    overflow: hidden;
     float: left;
     width: 50%;
 }
